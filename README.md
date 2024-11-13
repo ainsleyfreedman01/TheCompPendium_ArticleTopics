@@ -4,7 +4,6 @@ This repository contains articles that I have written or plan to write for my co
 ## Table of Contents
 - [Articles](#articles)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Articles
 Each article in this repository represents a topic I’ve covered or will cover on my blog. These articles aim to explain complex computer science topics in a clear and approachable way.
