@@ -10,8 +10,10 @@ Each article in this repository represents a topic I’ve covered or will cover 
 
 ### Planned Articles:
 - Article 1: What is computer science, anyway?
-- Article 2: There are so many languages...where should I start?
-- Article 3: Creating a foundation through object-oriented programming
+- Article 2: What can I do with computer science?
+- Article 3: There are so many languages...where should I start?
+- Article 4: AI: Where does it fit in?
+- Article 5: AI: Responsible use and ethics
 
 ### Published Articles:
 Coming Soon!
