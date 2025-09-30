@@ -9,14 +9,13 @@ This repository contains articles that I have written or plan to write for my co
 Each article in this repository represents a topic I’ve covered or will cover on my blog. These articles aim to explain complex computer science topics in a clear and approachable way.
 
 ### Planned Articles:
-- Article 1: What is computer science, anyway?
 - Article 2: What can I do with computer science?
 - Article 3: There are so many languages...where should I start?
 - Article 4: AI: Where does it fit in?
 - Article 5: AI: Responsible use and ethics
 
 ### Published Articles:
-Coming Soon!
+- Article 1: What is computer science, anyway?
 
 ## Contributing
 If you’d like to contribute to this repository or suggest topics for future articles, feel free to open an issue or submit a pull request.
